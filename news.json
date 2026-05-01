@@ -1,0 +1,21 @@
+{
+  "appnews": {
+    "appid": 252490,
+    "newsitems": [
+      {
+        "gid": "380788575849666406",
+        "title": "Server Rust133: <color=lime>online</color>",
+        "url": "https://vk.com/topic-91497904_48263434",
+        "is_external_url": true,
+        "author": "flamka6",
+        "contents": "[img]https://i.imgur.com/xNyLhMt.jpeg[/img] KusT World 133 status: <color=lime>работает</color>\nЕСЛИ В СПИСКЕ СЕРВЕРОВ НЕТ СЕРВЕРА, ТО ДЛЯ ЗАХОДА НА СЕРВЕР ОТКРОЙТЕ КОНСОЛЬ F1 И ВВЕДИТЕ:\n<color=gray>in progress...</color>\n\nKusT World 133 status: <color=lime>online</color>\nIF THERE IS NO SERVER IN THE LIST OF SERVERS, TO ENTER THE SERVER, OPEN THE F1 CONSOLE AND ENTER:\n<color=#5af>connect 88.99.1.43:13311</color>",
+        "feedlabel": "Community Announcements",
+        "date": 1775193600,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 252490
+      }
+    ],
+    "count": 841
+  }
+}
